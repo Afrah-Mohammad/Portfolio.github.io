@@ -15,7 +15,7 @@ h1 {
 
 #section1 {
   background-color: white;
-  background-image: url("../images/m.jpg");
+  background-image: url(<span class="image main"><img src="images/m.jpg" alt="" /></span>);
 }
 
 #section2 {
